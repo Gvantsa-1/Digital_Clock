@@ -1,2 +1,3 @@
-# Digital_Clock
-Simple project use to html, css and javascript
+#simple project - digital clock
+
+This is simple project to use html, css and javascript
